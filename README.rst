@@ -14,7 +14,7 @@ This is Python version 3.13.12
    :target: https://discuss.python.org/
 
 
-Copyright © 2001-2024 Python Software Foundation.  All rights reserved.
+Copyright © 2001-2024 Python Software Foundation (I just added small twist :)  ).  All rights reserved.
 
 See the end of this file for further copyright and license information.
 
