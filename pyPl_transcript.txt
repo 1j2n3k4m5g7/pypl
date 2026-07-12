@@ -87,3 +87,4 @@ ZeroDivisionError = BladDzieleniaPrzezZero
 property = wlasnosc
 classmethod = metoda_klasy
 staticmethod = metoda_statyczna
+
