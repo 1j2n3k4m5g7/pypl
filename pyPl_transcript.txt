@@ -1,0 +1,89 @@
+return = zwroc
+(
+    import = importuj
+    from = z_bib
+)
+raise = wyrzuc
+    raise from = wyrzuc z_pow
+pass = dalej
+del = usun
+yield = generuj
+    yield from = generuj z_zes
+assert = zaloz
+break = przerwij
+continue = kontynuuj
+global = globalna
+nonlocal = nielokalna
+(
+    def = definiuj
+    @ = @
+    async = asynch
+)
+if = jesli
+(
+    class = klasa
+    @ = @
+)
+(
+    with = ze
+    async = asynch
+)
+(
+    for = dla
+    async = asynch
+)
+try = sprobuj
+while = dopoki
+
+as = jako
+in = w_zb
+elif = inaczejjesli
+else = inaczej
+except = zwyjatkiem
+finally = finalnie
+match = dopasuj
+case = przypadek
+or = lub
+and = oraz
+not = nie
+is = jest
+await = oczekuj
+lambda = lambda
+True = Prawda
+False = Falsz
+None = Nic
+
+
+
+
+
+
+
+
+
+
+print = napisz
+input = wprowadz
+len = dlugosc
+range = zakres
+type = typ
+id = id_obiektu
+dir = spis
+str = tekst
+int = liczba
+float = ulamek
+list = lista
+dict = slownik
+set = zbior
+tuple = krotka
+bool = logiczny
+Exception = BladBledu
+ValueError = BladWartosci
+TypeError = BladTypu
+NameError = BladNazwy
+IndexError = BladIndeksu
+KeyError = BladKlucza
+ZeroDivisionError = BladDzieleniaPrzezZero
+property = wlasnosc
+classmethod = metoda_klasy
+staticmethod = metoda_statyczna
